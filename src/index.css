@@ -1,0 +1,46 @@
+:root {
+  font-family: system-ui, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+}
+
+.Contenedor_Principal{
+  background-color: palegoldenrod;
+  padding: 40px;
+}
+
+.Contenido{
+  border-width: 5px;
+  border-style: solid;
+  border-color: skyblue;
+  width: 450px;
+  height: 200px;
+  margin: 0 auto;
+}
+
+.Cuerpo h1{
+  color: black;
+}
+.Cuerpo h2{
+  color: black;
+  font-size: 40px;
+}
+
+.Contenido button{
+  margin: 5px;
+  border-radius: 10px;
+  font-size: 25px;
+}
+
+.Btn_Sumar {
+  background-color: lightgreen;
+}
+
+.Btn_Reiniciar {
+  background-color: aquamarine;
+}
+
+.Btn_Restar{
+  background-color: lightcoral;
+}
+
+
